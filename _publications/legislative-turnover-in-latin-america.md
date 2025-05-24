@@ -6,7 +6,7 @@ permalink: /publication/legislative-turnover-in-latin-america
 excerpt: 'Co-authored with Karel Kouba'
 date: 2025-03-07
 venue: 'Latin American Politics and Society'
-paperurl: '(https://doi.org/10.1017/lap.2024.56)'
+paperurl: 'https://doi.org/10.1017/lap.2024.56'
 citation: 'Kouba K., Weiss M. 2025. Legislative Turnover in Latin America: Introducing a New Dataset and Analyzing Its Temporal Dynamics. <i>Latin American Politics and Society</i>: 1-16.'
 ---
 
