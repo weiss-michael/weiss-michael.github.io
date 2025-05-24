@@ -11,35 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Ibero-American Studies, Charles University, 2027 (expected)
+   * Thesis supervisor: doc. Mgr. Karel Kouba, M.A., Ph.D.
+* Mgr. in Political Science - Latin American Studies, University of Hradec Králové, 2023
+* Bc. in Political Science and European Studies, Palacký University Olomouc, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* November 2023 - ongoing: Junior Researcher at the Faculty of Social Sciences at Charles University
+  * European Regional Development Fund
+  * Project: Beyond Security: Role of Conflict in Resilience-Building
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Projects
+======
+* January 2024 - ongoing: Principal Investigator
+  * Charles University Grant Agency (nr. 32924)
+  * Legislative turnover in Latin America
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: Czech, German, English, Spanish.
+* Other: LaTeX, R, SPSS, STATA.
 
 Publications
 ======
@@ -61,4 +53,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for the following journals:
+  * 2025: Scientific Data
