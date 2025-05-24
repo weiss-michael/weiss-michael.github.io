@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Legislative Turnover in Latin America: Introducing a New Dataset and Analyzing Its Temporal Dynamics"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/legislative-turnover-in-latin-america
+excerpt: 'Co-authored with Karel Kouba'
+date: 2025-03-07
+venue: 'Latin American Politics and Society'
+paperurl: '[[http://academicpages.github.io/files/paper1.pdf](https://doi.org/10.1017/lap.2024.56)](https://doi.org/10.1017/lap.2024.56)'
+citation: 'Kouba K, Weiss M. Legislative Turnover in Latin America: Introducing a New Dataset and Analyzing Its Temporal Dynamics. <i>Latin American Politics and Society</i>. 2025:1-16.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The article examines the patterns of turnover of Latin American legislators. It contributes (1) by introducing a large original dataset of turnover rates in 204 elections between 1985 and 2023 based on manually coded lists of all Latin American legislators elected since 1985, (2) by describing the cross-national and temporal patterns of turnover in Latin America, and (3) by examining empirically the relationship between turnover rates and temporal institutional arrangements designed to regulate the time horizons of legislators. The data reveals that turnover rates in Latin America are extremely high on average (around 70%) compared to democracies in other regions, although with significant variation. Institutional determinants governing time horizons of politicians are associated with turnover, with term limits, the presence of staggered elections and term length being positively associated with elevated turnover rates.
