@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year Ph.D. student at the Centre for Ibero-American Studies at Charles University. 
+I'm a third year Ph.D. student at the Centre for Ibero-American Studies at Charles University. 
 
-My regional focus is on Latin America and Central and Eastern Europe, and how these two regions have similar experiences as third wave democracies. My research interests include electoral behavior, political parties, institutionalism and their gendered aspects.
+My regional focus is on Latin America and Central and Eastern Europe, and how these two regions' similar experiences as third wave democracies shape their current democratic experiences. My research interests include electoral behavior, political parties, institutionalism and their gendered aspects.
