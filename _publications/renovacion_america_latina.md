@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/renovacion-legislative-en-america-latina
 excerpt: 'Co-authored with Karel Kouba'
-date: 2025-12-05
+date: 2025-12-04
 venue: 'Revista Mexicana De Derecho Electoral'
 paperurl: 'https://doi.org/10.22201/iij.24487910e.2025.23.20445'
 citation: 'Kouba, K., & Weiss, M. (2025). Renovación legislativa en América Latina: construcción de una nueva base de datos y análisis de su evolución temporal. Revista Mexicana De Derecho Electoral, 12(23), e20445.'
