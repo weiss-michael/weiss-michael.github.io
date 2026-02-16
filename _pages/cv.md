@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 ---
 
-[You can also download my CV in .pdf here](/files/cv.pdf)
+[You can also download my CV in .pdf format here](/files/cv.pdf)
 
 {% include base_path %}
 
@@ -45,10 +45,8 @@ Working papers
 ======
 * Dvorak, T., & Weiss, M. ”Chameleons, Centrists and Radicals. Are Centrist Populist
 Parties Really Vague in Terms of Economic and Cultural cleavages?”. | Under Review
-* Kouba, K., & Weiss, M. ”Gendered Dimensions of Legislative Turnover in Latin Amer-
-ica”.
-* Weiss, M. ”Legislative Turnover in Central and Eastern Europe: How high is it and what
-are its causes?”. | R&R
+* Kouba, K., & Weiss, M. ”Gendered Dimensions of Legislative Turnover in Latin America”.
+* Weiss, M. ”Legislative Turnover in Central and Eastern Europe: How high is it and what are its causes?”. | R&R
 * Weiss, M. ”The CESEE legislator dataset”.
 
 Conferences and workshops
