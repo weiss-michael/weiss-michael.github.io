@@ -39,7 +39,7 @@ Publications
 
 Datasets
 ======
-* Weiss, M., & Kouba, K. 2024. "The Latin American LEgislators Dataset." DOI: https://doi.org/10.17605/osf.io/nk4ma, OSF.
+* Weiss, M., & Kouba, K. 2024. "The Latin American Legislators Dataset." DOI: [https://doi.org/10.17605/osf.io/nk4ma](https://doi.org/10.17605/osf.io/nk4ma), OSF.
 
 Working papers
 ======
