@@ -11,8 +11,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Conferences"
-    url: /Conferences/    
+  #- title: "Conferences"
+  #  url: /Conferences/    
     
   - title: "CV"
     url: /cv/
@@ -20,5 +20,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #  url: /markdown/
