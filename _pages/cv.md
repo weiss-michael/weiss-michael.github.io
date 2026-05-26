@@ -23,8 +23,6 @@ Research positions
  
 Foreign academic experience
 ======
-* October 2026 - November 2026: Erasmus+ Exchange Student, Universidad de Chile
-  * Santiago, Chile
 * September 2025 - December 2025: Visiting Student, European University Institute
   * Host: Filip Kostelka
   * Fiesole, Italy
@@ -40,13 +38,15 @@ Publications
 Datasets
 ======
 * Weiss, M., & Kouba, K. 2024. "The Latin American Legislators Dataset." DOI: [https://doi.org/10.17605/osf.io/nk4ma](https://doi.org/10.17605/osf.io/nk4ma), OSF.
+* Weiss, M. 2025. "The Central, Eastern and South-Eastern European legislator dataset - CESEELD." DOI: [https://doi.org/10.17605/osf.io/nk4ma](https://doi.org/10.14473/CSDA/IP7FGB), CSDA.
 
 Working papers
 ======
 * Dvorak, T., & Weiss, M. ”Chameleons, Centrists and Radicals. Are Centrist Populist
 Parties Really Vague in Terms of Economic and Cultural cleavages?”. | Under Review
 * Kouba, K., & Weiss, M. ”Gendered Dimensions of Legislative Turnover in Latin America”.
-* Weiss, M. ”Legislative Turnover in Central and Eastern Europe: How high is it and what are its causes?”. | R&R
+* Petrusek, I., Kudrnac, A., & Weiss, M. "Gender, Ideology and Ballot Structure: Preferential Voting for Female Candidates in the Czech Republic's Flexible-list Proportional Representation System" | Under Review
+* Weiss, M. ”Legislative Turnover in Central and Eastern Europe: How high is it and what are its causes?”. | Under Review
 * Weiss, M. ”The CESEE legislator dataset”.
 
 Conferences and workshops
@@ -111,7 +111,7 @@ Other work experience
 Skills
 ======
 * Languages: Czech (native speaker), German (native speaker), English (C2), Spanish (B1).
-* Other: LaTeX, R, SPSS, STATA, GitHub, MS Office.
+* Other: LaTeX, R, SPSS, STATA, GitHub.
   
 Service and leadership
 ======
