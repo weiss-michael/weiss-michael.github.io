@@ -1,5 +1,5 @@
 ---
-title: "Legislative turnover: an in-depth look at Central and Eastern Europe"
+title: "*[Working paper]* Legislative turnover: an in-depth look at Central and Eastern Europe"
 collection: publications
 category: working_papers
 permalink: /publication/legislative_turnover_in_cee
