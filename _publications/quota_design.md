@@ -1,5 +1,5 @@
 ---
-title: "*[Working paper]* "Quota Design and Gendered Legislative Careers: Evidence from 17 Latin American Parliaments"
+title: "*[Working paper]* Quota Design and Gendered Legislative Careers: Evidence from 17 Latin American Parliaments"
 collection: publications
 category: working_papers
 permalink: /publication/quota_design
