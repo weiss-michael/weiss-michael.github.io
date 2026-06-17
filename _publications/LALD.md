@@ -1,7 +1,7 @@
 ---
 title: "The Latin American Legislators Dataset"
 collection: publications
-category: manuscripts
+category: journal
 permalink: /publication/latin-american-legislators-dataset
 excerpt: 'Co-authored with Karel Kouba'
 date: 2025-11-11
