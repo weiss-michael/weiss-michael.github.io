@@ -114,7 +114,7 @@ Skills
 * Languages: Czech (native speaker), German (native speaker), English (C2), Spanish (B1).
 * Other: LaTeX, R, SPSS, STATA, GitHub.
   
-Service and leadership
+Academic service
 ======
 * Reviewer for the following journals:
   * 2025: Scientific Data
