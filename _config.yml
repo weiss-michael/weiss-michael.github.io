@@ -80,7 +80,9 @@ publication_category:
   books:
     title: 'Books'
   journal:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
+  datasets:
+    title: 'Datasets'
   conferences:
     title: 'Conference Papers'
   working_papers:
