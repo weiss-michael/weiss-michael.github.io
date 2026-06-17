@@ -1,7 +1,7 @@
 ---
 title: "Legislative Turnover in Latin America: Introducing a New Dataset and Analyzing Its Temporal Dynamics"
 collection: publications
-category: manuscripts
+category: journal
 permalink: /publication/legislative-turnover-in-latin-america
 excerpt: 'Co-authored with Karel Kouba'
 date: 2025-03-07
