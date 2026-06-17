@@ -29,11 +29,13 @@ Foreign academic experience
 * September 2022 - February 2023: Erasmus+ Exchange Student, University of Wroclaw
   * Wroclaw, Poland
 
-Publications
+Journal articles
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+{% for pub in site.publications %}
+  {% if pub.category == "journal" %}
+  - {{ pub.title }}{% if pub.date %} ({{ pub.date | date: "%Y" }}){% endif %}
+  {% endif %}
+{% endfor %}
 
 Datasets
 ======
@@ -42,12 +44,11 @@ Datasets
 
 Working papers
 ======
-* Dvorak, T., & Weiss, M. ”Chameleons, Centrists and Radicals. Are Centrist Populist
-Parties Really Vague in Terms of Economic and Cultural cleavages?”. | Under Review
-* Kouba, K., & Weiss, M. ”Gendered Dimensions of Legislative Turnover in Latin America”.
-* Petrusek, I., Kudrnac, A., & Weiss, M. "Gender, Ideology and Ballot Structure: Preferential Voting for Female Candidates in the Czech Republic's Flexible-list Proportional Representation System" | Under Review
-* Weiss, M. ”Legislative Turnover in Central and Eastern Europe: How high is it and what are its causes?”. | Under Review
-* Weiss, M. ”The CESEE legislator dataset”.
+{% for pub in site.publications %}
+  {% if pub.category == "working_papers" %}
+  - {{ pub.title }}{% if pub.date %} ({{ pub.date | date: "%Y" }}){% endif %}
+  {% endif %}
+{% endfor %}
 
 Conferences and workshops
 ======
