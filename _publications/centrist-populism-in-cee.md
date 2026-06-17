@@ -1,5 +1,5 @@
 ---
-title: "*[Working paper]*“Centrist Populism” in Central and Eastern Europe? Introducing a Revisionist Approach"
+title: "*[Working paper]* “Centrist Populism” in Central and Eastern Europe? Introducing a Revisionist Approach"
 collection: publications
 category: working_papers
 permalink: /publication/centrist-populism-in-cee
