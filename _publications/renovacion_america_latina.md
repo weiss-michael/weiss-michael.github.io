@@ -1,7 +1,7 @@
 ---
 title: "Renovación legislativa en América Latina: construcción de una nueva base de datos y análisis de su evolución temporal"
 collection: publications
-category: manuscripts
+category: journal
 permalink: /publication/renovacion-legislative-en-america-latina
 excerpt: 'Co-authored with Karel Kouba'
 date: 2025-12-04
