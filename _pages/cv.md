@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 ---
 
-[You can also download my CV in .pdf format here](/files/cv.pdf)
+[You can also download my CV in .pdf format here](/files/CV.pdf)
 
 {% include base_path %}
 
@@ -40,7 +40,7 @@ Journal articles
 Datasets
 ======
 * Weiss, M., & Kouba, K. 2024. "The Latin American Legislators Dataset." DOI: [https://doi.org/10.17605/osf.io/nk4ma](https://doi.org/10.17605/osf.io/nk4ma), OSF.
-* Weiss, M. 2025. "The Central, Eastern and South-Eastern European legislator dataset - CESEELD." DOI: [https://doi.org/10.17605/osf.io/nk4ma](https://doi.org/10.14473/CSDA/IP7FGB), CSDA.
+* Weiss, M. 2026. "The Central, Eastern and South-Eastern European legislator dataset - CESEELD." DOI: [https://doi.org/10.17605/osf.io/nk4ma](https://doi.org/10.14473/CSDA/IP7FGB), CSDA.
 
 Working papers
 ======
@@ -53,7 +53,7 @@ Working papers
 Conferences and workshops
 ======
 * June 2026: European Conference on Politics and Gender
-  * Paper: "An Institutionalist Perspective on Gendered Legislative Careers in Latin America"
+  * Paper: "Quota Design and Gendered Legislative Careers: Evidence from 17 Latin American Parliaments"
   * Newcastle, England
 * August 2025: ECPR General Conference 2025
   * Paper: "Professionalization of Central and Eastern European Legislatures Through the Lens of Legislative Turnover"
